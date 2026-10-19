@@ -18,7 +18,6 @@ Este sistema busca reemplazar el proceso de registro manual en papel por una pla
 
 ## Estructura del Repositorio
 * pseudocodigo_mesa_de_partes.psc: Algoritmo desarrollado en PSeInt con control de bucles, validación de datos y banderas de cancelación.
-* informe.corregido.docx: Documento formal con el informe académico.
 
 ## Ejecución
 El proyecto actual se ejecuta abriendo el archivo `pseudocodigo_mesa_de_partes.psc` desde el entorno PSeInt para su simulación y pruebas.
